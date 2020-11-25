@@ -1,0 +1,80 @@
+[02-Aug-2019 00:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:25:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:26:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:31:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46
+[02-Aug-2019 00:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ucbuni/public_html/class/db.php:46
+Stack trace:
+#0 /home/ucbuni/public_html/class/login.php(11): DB::prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/ucbuni/public_html/class/db.php on line 46

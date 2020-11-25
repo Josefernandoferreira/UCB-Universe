@@ -1,0 +1,93 @@
+* { /* Vamos fazer um reset do padding e margin. */
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #000;
+    color: #ffffff;
+    font-family:
+        'Helvetica-neue', 'Helvetica', sans-serif; overflow: hidden;
+}
+
+.container {
+    max-width: 62.5rem;
+    margin: 0 auto;
+    position: relative;
+}
+
+.shadow {
+    height: 6.25rem;
+    background-color: #000;
+    box-shadow: 0em 0.625rem 1.25rem #000;
+    position: relative;
+    z-index: 100;
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: scale(0) translate(-50%, -50%);
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: scale(0) translate(-50%, -50%);
+    -moz-transform: scale(0) translate(-50%, -50%);
+    transform: scale(0) translate(-50%, -50%);
+    -webkit-animation-name: logo;
+    -webkit-animation-duration: 15s;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: logo;
+    -moz-animation-duration: 15s;
+    -moz-animation-timing-function: linear;
+    animation-name: logo;
+    animation-duration: 15s;
+    animation-timing-function: linear;
+}
+
+@keyframes logo {
+    from {
+        transform: translate(-50%, -50%) scale(2);
+        /* Precisamos repetir o translate, pois o keyframe subscreve os
+valores da propriedade */
+    } to {
+         transform: translate(-50%, -50%) scale(0);
+          }
+}
+
+.texto {
+    text-align: center;
+    transform: perspective(50rem) rotateX(25deg) translateY(40%);
+    animation-name: subir;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+}
+
+.texto p {
+    font-size: 4.375rem;
+    font-weight: bold;
+    text-shadow: 0rem 0rem 0.625rem #000;
+    margin-top: 4.375rem;
+    line-height: 1.4;
+}
+
+.titulo {
+    font-size: 5.3125rem;
+}
+
+.subtitulo {
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+@keyframes subir {
+    15% {
+        transform: perspective(50rem) rotateX(25deg) translateY(40%);
+        /* Precisamos repertir a perspective e o rotate para manter a perspectiva e rotação. */
+    } 100% {
+        transform: perspective(50rem) rotateX(25deg) translateY(-220%);
+        /* O translate-220% serve para deslocar o texto para cima! dando a sensação de que o texto está subindo. */ } }
